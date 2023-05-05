@@ -853,7 +853,7 @@ font-size: 20px;
         </div> 
         
 <div class="main">
- <img class="imgy" src="imeg/vf.jpg"/>
+ <img class="imgy" src="imeg/vf.jfif"/>
   <h2 class="main-title">crypto currency</h2>
 
 </div>
